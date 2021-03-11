@@ -1,1 +1,1 @@
-# Calcullo-ruta-Madrid
+modelo realizado para correlaccionar los puntos de la ruta generada por GoogleMaps con los puntos de medida de trafico de la ciudad de Madrid utilizados en el modelo de predicción de la carga de tráfico.
